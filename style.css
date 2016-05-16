@@ -1,0 +1,30 @@
+.navbar {
+    margin-bottom: 0px;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
+.img-1 {
+    width: 100%;
+    height: 500px;
+    background-image: url("http://www.sydney.com/sites/default/files/styles/side_nav_image_gallerybreakpoints_theme_dnsw_base_desktop_1x/public/sydney/galleries/queen-elizabeth-queen-mary-2-sydney-harbour.jpg?itok=wWdVdgjs");
+    background-size: cover;
+}
+.img-2 {
+    width: 100%;
+    height: 500px;
+    background-image: url("../img/sh.jpg");
+    background-size: cover;
+}
+
+.h1,h1 {
+        font-size: 42px;
+        margin-left: 40px;
+        font-family: monospace;
+
+}
+.img-responsive{
+    width: 100%/9;
+}
