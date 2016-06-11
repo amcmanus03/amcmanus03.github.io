@@ -265,7 +265,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url(...) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -375,4 +375,9 @@ body {
 @media (min-width: 768px)
 .intro .intro-body .brand-heading {
     font-size: 38px;
+}
+
+.hi{ border: 1px solid #42dca3;
+    color: #42dca3;
+    background-color: transparent;
 }
